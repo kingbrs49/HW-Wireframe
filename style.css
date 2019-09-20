@@ -1,0 +1,95 @@
+article {
+    background-color: #777;
+    color: #ebebeb;
+    margin-top: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.container {
+    height: 400px;
+    width: 960px;
+}
+footer {
+    background: #ebebeb;
+    clear: both;
+    margin: 10px;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    background: #ebebeb;
+    color: #777;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+header {
+    background: #ebebeb;
+    margin: 10px;
+    padding: 25px;
+    text-align: center;
+}
+
+nav {
+    background: #ebebeb;
+    margin: 10px;
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background: #ebebeb;
+    color: #777;
+    text-align: center;
+}
+
+section {
+    background: #ebebeb;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    padding-bottom: 12px;
+    text-align: center;
+    width: 55%;
+}
+
+aside {
+    background: #ebebeb;
+    box-sizing: content-box;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    text-align: center;
+    height: 270px;
+    width: 387px;
+}
+
+.boxed {
+    background: #777;
+    height: 165px;
+}
+
+.boxed_1 {
+    background: #ebebeb;
+    box-align: center;
+    height: 35px;
+    width: 500px;
+}
+
+.article-text {
+    background-color: #777;
+    color: #ebebeb;
+}
+
